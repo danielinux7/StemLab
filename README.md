@@ -8,6 +8,6 @@
 | 3          | [Example API: Eurostat](https://colab.research.google.com/github/danielinux7/StemLab/blob/master/2-API/api.ipynb#scrollTo=Ip-NO3Vno1XN)              | **API**  |
 | 4          | [Exercise](https://colab.research.google.com/github/danielinux7/StemLab/blob/master/2-API/api.ipynb#scrollTo=E3jw-GBFo1Xw)                        | **API**  |
 | 5          | [HTML](https://colab.research.google.com/github/danielinux7/StemLab/blob/master/3-Web-Scraping/web-scraping.ipynb)                        | **Web Scraping**  |
-| 6          | [BeautifulSoup](https://colab.research.google.com/github/danielinux7/StemLab/blob/master/3-Web-Scraping/web-scraping.ipynb)                        | **Web Scraping**  |
+| 6          | [BeautifulSoup](https://colab.research.google.com/github/danielinux7/StemLab/blob/master/3-Web-Scraping/web-scraping.ipynb#scrollTo=IJbdSl5QYi7h)                        | **Web Scraping**  |
 
 Thanks to Innovation Mapping team
