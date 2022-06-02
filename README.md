@@ -1,4 +1,4 @@
-# Data Science tutorial timeline
+# Data Science Tutorial Timeline
 
 | **Lesson** | **<br>**                           | **<br>** |
 | :----------: | :----------------------------------: | :--------: |
