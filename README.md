@@ -9,7 +9,7 @@
 | 4          | [Exercise](https://colab.research.google.com/github/danielinux7/StemLab/blob/master/2-API/api.ipynb#scrollTo=E3jw-GBFo1Xw)                        | **API**  |
 | 5          | [HTML](https://colab.research.google.com/github/danielinux7/StemLab/blob/master/3-Web-Scraping/web-scraping.ipynb)                        | **Web Scraping**  |
 | 6          | [BeautifulSoup](https://colab.research.google.com/github/danielinux7/StemLab/blob/master/3-Web-Scraping/web-scraping.ipynb#scrollTo=IJbdSl5QYi7h)                        | **Web Scraping**  |
-| 7          | [Shell Commands](https://colab.research.google.com/github/danielinux7/StemLab/blob/master/4-Shell-Scripting/shell-scripting.ipynb)                        | **Shell Scripting**  |
-| 8          | [Shell Commands](https://colab.research.google.com/github/danielinux7/StemLab/blob/master/4-Shell-Scripting/shell-scripting.ipynb#scrollTo=Dfp2euXQiYKh)                        | **Shell Scripting**  |
+| 7          | [Extract and clean up text](https://colab.research.google.com/github/danielinux7/StemLab/blob/master/4-Shell-Scripting/shell-scripting.ipynb)                        | **Shell Scripting**  |
+| 8          | [Fix common issues](https://colab.research.google.com/github/danielinux7/StemLab/blob/master/4-Shell-Scripting/shell-scripting.ipynb#scrollTo=Dfp2euXQiYKh)                        | **Shell Scripting**  |
 
 Thanks to Innovation Mapping team
