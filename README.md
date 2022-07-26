@@ -11,5 +11,7 @@
 | 6          | [BeautifulSoup](https://colab.research.google.com/github/danielinux7/StemLab/blob/master/3-Web-Scraping/web-scraping.ipynb#scrollTo=IJbdSl5QYi7h)                        | **Web Scraping**  |
 | 7          | [Extract and clean up text](https://colab.research.google.com/github/danielinux7/StemLab/blob/master/4-Shell-Scripting/shell-scripting.ipynb)                        | **Shell Scripting**  |
 | 8          | [Fix common issues](https://colab.research.google.com/github/danielinux7/StemLab/blob/master/4-Shell-Scripting/shell-scripting.ipynb#scrollTo=Dfp2euXQiYKh)                        | **Shell Scripting**  |
+|            | **Statistics**                    | **<br>** |
+| 9          | [2](https://github.com/danielinux7/StemLab/blob/master/5-Statistics/p_40_200_92k.saria.xlsx)  | **Random Sampling**  |
 
 Thanks to Innovation Mapping team
